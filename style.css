@@ -1,0 +1,13 @@
+.container {
+
+      width: 800px;
+      margin: 0 auto;
+      font-family: Verdana, Helvetica, sans-serif;
+    }
+
+ input.ok { border-color: black; }
+    input.ok { border-color: green; }
+    input.notOk { border-color: red; }
+    output.ok { color: green; border-color: green; }
+    output.notOk { color: red; border-color: red; }
+
